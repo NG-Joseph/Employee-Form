@@ -6,7 +6,7 @@ Simple HTML form with Flask and SQL support in Python.
 
   PREREQUISITES:
   
-  1) Postgres SQL.
+  1) PostgreSQL.
   
   2) Flask.
   
