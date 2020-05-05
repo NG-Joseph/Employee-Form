@@ -24,7 +24,7 @@ Simple HTML form with Flask and SQL support in Python.
 
 
 
-NOTE: If you to create a new database, change the name of database in models.py and in Python Console run 
+NOTE: If you wish to create a new database, change the name of database in models.py and in Python Console run 
 
 db.createall(); 
 
@@ -37,6 +37,8 @@ Run
 db.dropall();
 
 This clears the entire database but preserves the Fields.
+
+Edit models.py at your discretion.
 
 
 Documentation by Joseph Nwokotubo.
