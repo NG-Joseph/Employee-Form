@@ -1,6 +1,6 @@
 # Employee-Form
 Simple HTML form with Flask and SQL support in Python.
----------------------------------------------------------MANUAL--------------------------------------------------------------
+-----------------------------------------------MANUAL--------------------------------------------------------------
   REQUIREMENTS:
   1)Postgres SQL service and shell on system.
   2) Flask library from Pycharm.
