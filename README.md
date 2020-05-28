@@ -19,25 +19,21 @@ Simple HTML form using Flask with SQL database support.
    ``` db.createall(); ``` 
   2) Connect to database in SQL shell.
 
-    ```/c employee_db1```
+     ``` /c employee_db1 ``` 
 
   3) Feel free to use the form for any project.
 
 
 
-NOTE: If you wish to create a new database, change the name of database in models.py and in Python Console run 
-
-db.createall(); 
-
+NOTE: If you wish to create a new database, change the name of database in models.py and in Python Console run  db.createall();
 Connect to the new database in SQL Terminal following the steps mentioned above.
 
 OR
 
-Run 
+Run:
+  ``` db.dropall(); ```
 
-db.dropall();
-
-This clears the entire database but preserves the Fields.
+This clears the entire database but preserves the Field names.
 
 Edit models.py at your discretion.
 
