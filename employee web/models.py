@@ -2,7 +2,7 @@ from main import db
 from werkzeug.security import generate_password_hash, check_password_hash
 from datetime import date
 
-class Employee(db.Model): #notice that our class extends db.Model
+class Employee(db.Model): #notice that the class extends db.Model
     __tablename__= 'employee_db1'
     id = db.Column(db.Integer, primary_key=True)
     firstname = db.Column(db.String(20), unique=False, nullable=False)
