@@ -15,13 +15,13 @@ Simple HTML form using Flask with SQL database support.
 
 
 
-  1) Create database in Python Console:
+  - Create database in Python Console:
    ``` db.createall(); ``` 
-  2) Connect to database in SQL shell.
+ - Connect to database in SQL shell.
 
      ``` /c employee_db1 ``` 
 
-  3) Feel free to use the form for any project.
+  <h2>Feel free to use the form for any project.</h2>
 
 
 
