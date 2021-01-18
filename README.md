@@ -13,7 +13,7 @@ Simple HTML form using Flask with SQL database support.
   
 
 
-  IMPORTANT STEPS:
+
 
   1) Create database in Python Console:
    ``` db.createall(); ``` 
@@ -25,17 +25,4 @@ Simple HTML form using Flask with SQL database support.
 
 
 
-NOTE: If you wish to create a new database, change the name of database in models.py and in Python Console run  db.createall();
-Connect to the new database in SQL Terminal following the steps mentioned above.
 
-OR
-
-Run:
-  ``` db.dropall(); ```
-
-This clears the entire database but preserves the Field names.
-
-Edit models.py at your discretion.
-
-
-Documentation by Joseph Nwokotubo.
