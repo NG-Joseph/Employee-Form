@@ -1,5 +1,5 @@
 # Employee-Form
-Simple HTML form using Flask with SQL database support.
+Simple HTML form using Flask with PostgreSQL
 
 
   PREREQUISITES:
