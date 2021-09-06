@@ -17,7 +17,7 @@ Simple HTML form using Flask with PostgreSQL
 
   - Create database in Python Console:
    ``` db.createall(); ``` 
- - Connect to database in SQL shell.
+ - Connect to database in psql shell.
 
      ``` /c employee_db1 ``` 
 
