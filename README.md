@@ -21,7 +21,7 @@ Simple HTML form using Flask with PostgreSQL
 
      ``` /c employee_db1 ``` 
 
-  <h2>Feel free to use the form for any project.</h2>
+
 
 
 
